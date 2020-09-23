@@ -1,6 +1,6 @@
-## Ecoleta Mobile (React Native && Typescript)
+## Proofy Mobile (React Native && Typescript)
 
-<img src="https://github.com/vbeloti/ecoleta-mobile/blob/master/.github/ecoleta-1.jpg?raw=true" alt="Ecoleta" />
+<img src="https://github.com/vbeloti/proofy-mobile/blob/master/.github/proofy-1.jpg?raw=true" alt="Proofy" />
 
 In the project directory, you can run:
 
